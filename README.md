@@ -1,5 +1,7 @@
 # 🎮 Arcade MERN — Full-Stack Gaming Platform
 
+Access website - https://rohitdattagamehub.onrender.com
+
 A full-stack **MERN** web app where users can log in, play six classic games, and compete on global leaderboards.
 
 Built with **MongoDB + Express + React + Node.js (TypeScript)** and hosted entirely on **Render (free tier)** with a **MongoDB Atlas** database.
