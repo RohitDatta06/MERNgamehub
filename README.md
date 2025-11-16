@@ -1,6 +1,6 @@
 # 🎮 Arcade MERN — Full-Stack Gaming Platform
 
-Access website - https://rohitdattagamehub.onrender.com
+Website link - https://rohitdattagamehub.onrender.com
 
 A full-stack **MERN** web app where users can log in, play six classic games, and compete on leaderboards.
 
